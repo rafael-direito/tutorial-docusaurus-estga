@@ -1,3 +1,9 @@
+/**
+ * @Author: Rafael Direito
+ * @Date:   27-05-2022 15:38:38
+ * @Last Modified by:   Rafael Direito
+ * @Last Modified time: 27-05-2022 15:55:42
+ */
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
@@ -6,8 +12,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'ESTGA',
+  tagline: 'Programmers are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'ESTGA',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
