@@ -15,7 +15,7 @@ const config = {
   title: 'ESTGA',
   tagline: 'Programmers are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/docusaurus-website/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
